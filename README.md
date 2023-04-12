@@ -2,4 +2,4 @@ Be kind to one another
 
 https://billmill.org
 
-https://twitter.com/llimllib
+[hachyderm.io/@llimllib](https://hachyderm.io/@llimllib)
